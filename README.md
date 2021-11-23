@@ -1,4 +1,4 @@
-### Hi there i am vineetha the donkey of the world 👋
+### Hi there 👋
 ## Aditya Engineering college
 
 *BTECH*<br>
