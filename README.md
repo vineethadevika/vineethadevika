@@ -1,15 +1,15 @@
 ### Hi there 👋
 ## Aditya Engineering college
-## Vineethadevika 
-*Hello World*<br>
-**Hello World**<br>
-***Hello World***<br>
-# LORD SARASWATI
 
-![image](https://user-images.githubusercontent.com/84488013/142845360-5641c57f-4a16-49c4-9e46-37a95fda9703.png)<br>
-Saraswati symbolizes creative energy and is considered the goddess of knowledge, music, art, wisdom, and learning. In many parts of the country, it is considered as an auspicious day for kids to write their first words with their fingers/pen/pencil or study some creative art field.
-
+*BTECH*<br>
+**cse**<br>
+***computer science and Engineering***<br>
+# N.Vineethadevika
+![image](https://user-images.githubusercontent.com/84488013/142971516-f66765b5-a329-40d5-953b-dab1ba8afad6.png)<br>
 [Google](www.google.com)
+
+
+
 <!--
 **vineethadevika/vineethadevika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
