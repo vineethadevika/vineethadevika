@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Aditya Engineering college
-
+## Present  i am persuing 2nd year
 *BTECH*<br>
 **cse**<br>
 ***computer science and Engineering***<br>
