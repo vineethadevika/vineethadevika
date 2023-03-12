@@ -4,7 +4,7 @@
 *BTECH*<br>
 **cse**<br>
 ***computer science and Engineering***<br>
-# N.Vineethadevika
+# N.Vineetha Devika
 ![image](https://user-images.githubusercontent.com/84488013/142971516-f66765b5-a329-40d5-953b-dab1ba8afad6.png)<br>
 [Google](www.google.com)
 |S.no| Name| Roll-no|Branch|
