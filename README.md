@@ -1,9 +1,5 @@
 ### Hi there 👋
-## Aditya Engineering college
-## Present  i am persuing 4th year
-*BTECH*<br>
-**cse**<br>
-***computer science and Engineering***<br>
+
 # N.Vineetha Devika
 
 
